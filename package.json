@@ -1,0 +1,12 @@
+{
+  "name": "isocodejs",
+  "version": "0.1.0",
+  "description": "Isocode",
+  "main": "isocode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "jtwb",
+  "license": "MIT"
+}
